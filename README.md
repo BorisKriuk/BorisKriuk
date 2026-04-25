@@ -39,11 +39,6 @@ This profile is a live record of my open work: the projects I ship, the experime
 ## GitHub statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BorisKriuk&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorisKriuk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=BorisKriuk&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff" alt="streak">
 </p>
 
