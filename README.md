@@ -54,7 +54,7 @@ This profile is a live record of my open work: the projects I ship, the experime
 ## Working principles
 
 - **Reproducibility first.** Every experiment ships with a seed, a config, and a clear path to re-run it.
-- **Interpretability over opacity.** A model that can be inspected and reasoned about is worth more than one that simply scores well.
+- **Interpretability over opacity.** A model that can be reasoned about is worth more than one that scores well.
 - **Analytical baselines matter.** Before invoking a deep model, I write the closed-form solution. Often it wins.
 - **Ship the UI.** Research that nobody can run is research nobody will use. I build interactive front-ends for my models.
 
