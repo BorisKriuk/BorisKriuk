@@ -55,13 +55,6 @@ This profile is a live record of my open work: the projects I ship, the experime
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BorisKriuk&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=bc8cff&point=2ea043&area=true" alt="activity graph">
 </p>
 
----
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BorisKriuk&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies">
-</p>
 
 ## Working principles
 
